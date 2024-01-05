@@ -208,7 +208,7 @@ body {
   justify-content: space-between;
   position: relative;
   width: 334px;
-  height: 563px;
+  min-height: 563px;
   padding: 50px 40px;
   background-size: cover;
   background-position: center;
@@ -302,7 +302,7 @@ body {
 
 .about__title {
   color: #000;
-  font-family: Raleway;
+  font-family: Raleway, sans-serif;
   font-size: 40px;
   font-style: normal;
   font-weight: 700;
@@ -313,7 +313,7 @@ body {
 
 .about__text {
   color: #000;
-  font-family: Raleway;
+  font-family: Raleway, sans-serif;
   font-size: 20px;
   font-style: normal;
   font-weight: 400;
